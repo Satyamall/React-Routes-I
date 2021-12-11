@@ -1,0 +1,32 @@
+
+.App{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.link{
+    display: flex;
+    gap: 2rem;
+    height: 50px;
+    background: black;
+    align-items: center;
+    padding: 5px 20px;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
